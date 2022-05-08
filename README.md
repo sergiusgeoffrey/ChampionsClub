@@ -3,11 +3,11 @@ This is a Reupload of the Project Champions Club for the Course Web Technology a
 
 ## Original Link
 **https://github.com/S1K4RA/ProjekTekweb**
-Group Project of 4 Made by __
-  Baskara Bagus - S1K4RA https://github.com/S1K4RA/ __
-  Charlton Gilbert - CharltonGilbert https://github.com/CharltonGilbert/ __
-  Timothy Dwiputra - Timothy D https://www.linkedin.com/in/timothyd-ngoei/ __
-  Sergius Geoffrey - sergiusgeoffrey https://github.com/sergiusgeoffrey/ __
+Group Project of 4 Made by <br/>
+  Baskara Bagus - S1K4RA https://github.com/S1K4RA/ <br/>
+  Charlton Gilbert - CharltonGilbert https://github.com/CharltonGilbert/ <br/>
+  Timothy Dwiputra - Timothy D https://www.linkedin.com/in/timothyd-ngoei/ <br/>
+  Sergius Geoffrey - sergiusgeoffrey https://github.com/sergiusgeoffrey/ <br/>
 
 ## Preview
 ### Landing Page
